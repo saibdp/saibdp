@@ -3,7 +3,7 @@
 
 - 🌱 Currently working on Cloud certifications (AWS & Azure) and Deep Learning.
 - 💞️ I am addicted to growing and learning everyday.
-- 🔎 If you are currently hiring, you can find my [Resume here](https://drive.google.com/file/d/1xipxXkDHQoU1wgtHhDQoBTuydA7udkXd/view?usp=drive_link)
+- 🔎 If you are currently hiring, you can find my [Resume here]([https://drive.google.com/file/d/1xipxXkDHQoU1wgtHhDQoBTuydA7udkXd/view?usp=drive_link](https://drive.google.com/file/d/1VFXo7XTq1smDFBK2xnaUoEQB7zJuGj_I/view?usp=drive_link))
 - 📫 I love connecting with new people, give me a shout at saibdp@gmail.com or on [LinkedIn!](https://www.linkedin.com/in/sai-praneeth-boddupalli/)
 
 
