@@ -5,7 +5,7 @@
 - 💞️ I am addicted to growing and learning everyday.
 <!---- 🔎 If you are currently hiring, you can find my [Resume here](https://drive.google.com/file/d/1VFXo7XTq1smDFBK2xnaUoEQB7zJuGj_I/view?usp=drive_link)
 -->
-- 📫 I love connecting with new people, give me a shout at saibdp@gmail.com or on [LinkedIn!](https://www.linkedin.com/in/sai-praneeth-boddupalli/)
+- 📫 I love connecting with new people, give me a shout at saibdp@gmail.com <!----  or on [LinkedIn!](https://www.linkedin.com/in/sai-praneeth-boddupalli/) -->
 
 
 <!---
