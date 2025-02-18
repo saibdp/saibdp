@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sai Praneeth BoDdupalli!
+# 👋 Hi, I'm Sai Praneeth Boddupalli!
 
 ## 🚀 About Me
 I am a **Data Engineer** with 6+ years of experience in designing, building, and optimizing data pipelines and cloud-based solutions. My expertise spans **Azure Data Services**, **Databricks**, and **Big Data technologies**, helping businesses drive data-driven decision-making.
