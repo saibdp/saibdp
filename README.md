@@ -1,14 +1,42 @@
-- 👋 Hi, I am Sai Praneeth Boddupalli
-- 👀 I am interested in Natural Language Processing, Machine Learning, Neural Networks and Computer Vision.
+# 👋 Hi, I'm Sai Praneeth BoDdupalli!
 
-- 🌱 Currently working on Cloud certifications (Azure DP-203, Fabric Analytics Engineer Associate).
-- 💞️ I am addicted to growing and learning everyday.
-<!---- 🔎 If you are currently hiring, you can find my [Resume here](https://drive.google.com/file/d/1VFXo7XTq1smDFBK2xnaUoEQB7zJuGj_I/view?usp=drive_link)
--->
-- 📫 I love connecting with new people, give me a shout at saibdp@gmail.com <!----  or on [LinkedIn!](https://www.linkedin.com/in/sai-praneeth-boddupalli/) -->
+## 🚀 About Me
+I am a **Data Engineer** with 6+ years of experience in designing, building, and optimizing data pipelines and cloud-based solutions. My expertise spans **Azure Data Services**, **Databricks**, and **Big Data technologies**, helping businesses drive data-driven decision-making.
 
+## 🔹 Technical Skills
+- **Cloud & Data Services:** Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Azure SQL, Azure Data Lake Storage
+- **Big Data & ETL:** Apache Spark, Hadoop, Hive, Sqoop, PySpark, Snowflake
+- **Programming:** Python, SQL, T-SQL, PySpark
+- **Data Visualization:** Power BI, Tableau
+- **CI/CD & DevOps:** Git, Jenkins, ServiceNow, Agile (Scrum, Jira)
+- **Machine Learning:** Scikit-learn, Pandas, Numpy, Matplotlib
 
-<!---
-saibdp/saibdp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎓 Certifications
+- **DP-203** – Azure Data Engineer Associate
+- **DP-900** – Azure Data Fundamentals
+- **AZ-900** – Microsoft Azure Fundamentals
+- **AWS Certified Cloud Practitioner**
+
+## 💼 Experience
+### 🔹 **Azure Data Engineer** @ EY, Canada *(Oct 2022 – Present)*
+- Developed ETL pipelines using **Azure Data Factory** and **Databricks** to integrate structured and unstructured data.
+- Designed and optimized **Azure SQL Database** and **Data Lake Storage** solutions.
+- Implemented **real-time data ingestion** using Azure Stream Analytics and Event Hubs.
+- Integrated **Snowflake** for cloud-based data warehousing and analytics.
+
+### 🔹 **Data Engineer** @ Cerner Healthcare Solutions, India *(Jun 2020 – Aug 2022)*
+- Built scalable **ETL pipelines** using **Apache Spark** and **Azure Data Factory**.
+- Developed data models for business intelligence and analytics.
+- Automated data workflows using **Python scripting** and **Azure DevOps**.
+
+### 🔹 **Business Analyst** @ NextGen, India *(Jun 2018 – May 2020)*
+- Gathered and analyzed business requirements, translating them into data-driven solutions.
+- Worked on data preprocessing, reporting, and visualization using **Power BI & AWS QuickSight**.
+- Assisted in **machine learning model deployment** and data validation.
+
+## 📫 Connect with Me
+- **📧 Email:** [saipraneethboddupalli145@gmail.com](mailto:saipraneethboddupalli145@gmail.com)
+- **💼 LinkedIn:** [linkedin.com/in/sai-praneeth-boddupalli](https://www.linkedin.com/in/sai-praneeth-boddupalli)
+- **🐙 GitHub:** [github.com/your-github-handle](https://github.com/saibdp)
+
+🚀 Always open to learning, collaboration, and new opportunities in **Data Engineering & Cloud Technologies**!
