@@ -37,6 +37,6 @@ I am a **Data Engineer** with 6+ years of experience in designing, building, and
 ## 📫 Connect with Me
 <!--  - **📧 Email:** [saipraneethboddupalli145@gmail.com](mailto:saipraneethboddupalli145@gmail.com) -->
 - **💼 LinkedIn:** [linkedin.com/in/sai-praneeth-boddupalli](https://www.linkedin.com/in/sai-praneeth-boddupalli)
-- **🐙 GitHub:** [github.com/your-github-handle](https://github.com/saibdp)
+- **🐙 GitHub:** [github.com/saibdp](https://github.com/saibdp)
 
 🚀 Always open to learning, collaboration, and new opportunities in **Data Engineering & Cloud Technologies**!
