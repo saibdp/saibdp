@@ -12,6 +12,7 @@ I am a **Data Engineer** with 5+ years of experience in designing, building, and
 - **Machine Learning:** Scikit-learn, Pandas, Numpy, Matplotlib
 
 ## 🎓 Certifications
+- **DP-700** – Fabric Data Engineer Associate
 - **DP-203** – Azure Data Engineer Associate
 - **DP-900** – Azure Data Fundamentals
 - **AZ-900** – Microsoft Azure Fundamentals
