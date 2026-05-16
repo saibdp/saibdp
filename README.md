@@ -19,7 +19,7 @@ I am a **Data Engineer** with 5+ years of experience in designing, building, and
 - **AWS Certified Cloud Practitioner**
 
 ## 💼 Experience
-### 🔹 **Azure Data Engineer** @ Price Industries, Canada *(Apr 2025 – Present)*
+### 🔹 **Azure Data Engineer** @ Price Industries, Canada *(Oct 2023 – Present)*
 - Developed ETL pipelines using **Azure Data Factory** and **Databricks** to integrate structured and unstructured data.
 - Designed and optimized **Azure SQL Database** and **Data Lake Storage** solutions.
 - Implemented **real-time data ingestion** using Azure Stream Analytics and Event Hubs.
